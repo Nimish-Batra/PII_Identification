@@ -1,0 +1,10 @@
+streamlit
+spacy
+langchain
+langchain-experimental
+Faker
+tiktoken
+pypdf
+langchain_openai
+openpyxl
+docx2txt
